@@ -44,6 +44,10 @@ A Chrome extension that lets you bookmark specific points in YouTube videos and 
 ![Screenshot of the extension interface](1.png)
 ![Screenshot of the extension interface](2.png)
 
+5. ## Working Explaination
+
+[![Watch the video](2.png)](Working(1).mp4)
+
 ## Future Enhancements
 
 - Add the ability to categorize bookmarks by playlists or tags.
