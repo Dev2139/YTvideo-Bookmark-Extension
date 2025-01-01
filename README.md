@@ -46,7 +46,7 @@ A Chrome extension that lets you bookmark specific points in YouTube videos and 
 
 5. ## Working Explaination
 
-[![Watch the video](2.png)](Working(1).mp4)
+[![Watch the video](1.png)](Working(1).mp4)
 
 ## Future Enhancements
 
